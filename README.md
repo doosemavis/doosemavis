@@ -1,5 +1,5 @@
-### Hi there 👋  &  WELCOME to my GitHub 👨‍💻
-# - 😄 Pronouns: he/him
+# Hi there 👋  &  WELCOME to my GitHub 👨‍💻
+### 😄 Pronouns: he/him
 
 ## 💁‍♂️ About me: 
 
