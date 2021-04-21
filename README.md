@@ -14,31 +14,13 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
  [Headphone Handler 🎧](https://github.com/doosemavis/headphone_handler)
 
 ## 👾 Technical Skills: 
-  Ruby
-  Ruby on Rails
-  ActiveRecord
-  Sinatra
-  SQL
-  Sqlite3
-  PostgresSQL
-  JavaScript
-  React.js
-  Redux
-  Git
+  Ruby · Ruby on Rails · ActiveRecord · Sinatra · SQL · Sqlite3 · PostgresSQL · JavaScript · React.js · Redux · Git
+  
+  #### Learning: Golang (Go) 
 
 ## 📫 How to reach me: 
 #### email: moosedavis2011@gmail.com
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... --> 
-
-
-
-
-- ⚡ Fun fact: "There are no child butterflies, and there are no adult caterpillars." 
+⚡ Fun fact: "There are no child butterflies, and there are no adult caterpillars." 
