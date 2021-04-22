@@ -42,7 +42,7 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 ![](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)
 ![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/VSCode-lightblue?style=for-the-badge&logo=vscode&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/VSCode-lightblue?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
 
   
   #### Currently Learning: 
