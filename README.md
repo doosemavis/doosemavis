@@ -32,20 +32,20 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 
 ## 👾 Technical Skills: 
 ![](https://img.shields.io/badge/Ruby-critical?style=for-the-badge&logo=ruby&logoColor=white&color=CC342D)
-![](https://img.shields.io/badge/Ruby_on_Rails-critical?style=for-the-badge&logo=ruby-on-rails)
-![](https://img.shields.io/badge/ActiveRecord-critical?style=for-the-badge&logo=ruby)
-![](https://img.shields.io/badge/Sinatra-critical?style=for-the-badge&logo=ruby)
-![](https://img.shields.io/badge/SQL-critical?style=for-the-badge&logo=sqlite)
-![](https://img.shields.io/badge/PostgreSQL-critical?style=for-the-badge&logo=postgresql)
-![](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
-![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Sinatra-critical?style=for-the-badge&logo=ruby&logoColor=white&color=CC342D)
+![](https://img.shields.io/badge/Ruby_on_Rails-critical?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=CC342D)
+![](https://img.shields.io/badge/ActiveRecord-critical?style=for-the-badge&logo=ruby-on-rails&logoColo=white&color=CC342D)
+![](https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)
+![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=181717)
 
   
   #### Currently Learning: 
-  ![](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go)
+  ![](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
 
 
 ## 📫 How to reach me: 
