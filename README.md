@@ -7,10 +7,17 @@ First and foremost, thank you for taking the time to be here and having a gander
 A little background: I'm an ambitious, hardworking, lifelong learner who is in the midst of my first official job search in the tech industry.  If you have any insights, opportunities, or recommendations, please do not hesitate to message me!  You can find my contact information at the bottom of this page.  
 
 
-#### Currently Looking For Jobs using: 
+#### Currently Looking For Positions With: 
 * Full-Time
 * Remote
 * Backend using (Ruby on Rails)
+
+##### Fexibility with: 
+* Not afraid to learn new languages/frameworks 
+* Fast at learning
+* Works well with deadlines
+* Knows when to ask for help
+* Does well with group dynamics & individual work
 
 
 
