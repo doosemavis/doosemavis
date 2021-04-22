@@ -36,14 +36,15 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 ![](https://img.shields.io/badge/-ActiveRecord-critical?style=for-the-badge&logo=ruby)
 ![](https://img.shields.io/badge/-SQL-critical?style=for-the-badge&logo=sqlite)
 ![](https://img.shields.io/badge/-PostgresSQL-critical?style=for-the-badge&logo=postgresql)
-![](https://img.shields.io/badge/-JavaScriptL-yellow?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/-React.js-blue?color=#61DAFB?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)
 ![](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-  Ruby · Ruby on Rails · ActiveRecord · Sinatra · SQL · Sqlite3 · PostgresSQL · JavaScript · React.js · Redux · Git · API · RESTful
+
   
   #### Learning: Golang (Go) 
+  ![](https://img.shields.io/badge/-Golang-?style=for-the-badge&logo=go)
 
 
 ## 📫 How to reach me: 
