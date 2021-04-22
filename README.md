@@ -43,8 +43,7 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 
   
-  #### Learning: Golang (Go) 
-  ![](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go)
+  #### Learning: ![](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go)
 
 
 ## 📫 How to reach me: 
