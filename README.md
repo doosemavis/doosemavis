@@ -14,7 +14,7 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
  [Headphone Handler 🎧](https://github.com/doosemavis/headphone_handler)
 
 ## 👾 Technical Skills: 
-  Ruby · Ruby on Rails · ActiveRecord · Sinatra · SQL · Sqlite3 · PostgresSQL · JavaScript · React.js · Redux · Git
+  Ruby · Ruby on Rails · ActiveRecord · Sinatra · SQL · Sqlite3 · PostgresSQL · JavaScript · React.js · Redux · Git · API · RESTful
   
   #### Learning: Golang (Go) 
 
