@@ -34,6 +34,7 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 ![](https://img.shields.io/badge/-Ruby-critical?style=for-the-badge&logo=ruby)
 ![](https://img.shields.io/badge/-Ruby_on_Rails-critical?style=for-the-badge&logo=ruby-on-rails)
 ![](https://img.shields.io/badge/-ActiveRecord-critical?style=for-the-badge&logo=ruby)
+![](https://img.shields.io/badge/-Sinatra-critical?style=for-the-badge&logo=ruby)
 ![](https://img.shields.io/badge/-SQL-critical?style=for-the-badge&logo=sqlite)
 ![](https://img.shields.io/badge/-PostgreSQL-critical?style=for-the-badge&logo=postgresql)
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -43,7 +44,8 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 
   
-  #### Learning: ![](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go)
+  #### Currently Learning: 
+  ![](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go)
 
 
 ## 📫 How to reach me: 
