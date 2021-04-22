@@ -48,6 +48,11 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
   
   #### Currently Learning: 
   ![](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
+  
+  
+## GitHub Stats: 
+[![Moose's GitHub stats](https://github-readme-stats.vercel.app/api?username=doosemavis)](https://github.com/doosemavis/github-readme-stats)
+
 
 
 ## 📫 How to reach me: 
