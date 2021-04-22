@@ -31,7 +31,7 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 
 
 ## 👾 Technical Skills: 
-![](https://img.shields.io/badge/Ruby?style=for-the-badge&logo=ruby&color=cc342d)
+![](https://img.shields.io/badge/Ruby?style=for-the-badge&logo=ruby)
 ![](https://img.shields.io/badge/Ruby_on_Rails-critical?style=for-the-badge&logo=ruby-on-rails)
 ![](https://img.shields.io/badge/ActiveRecord-critical?style=for-the-badge&logo=ruby)
 ![](https://img.shields.io/badge/Sinatra-critical?style=for-the-badge&logo=ruby)
