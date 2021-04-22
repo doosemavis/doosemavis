@@ -51,10 +51,11 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
   
   
 ## 📈 GitHub Stats: 
-[![Moose's GitHub stats](https://github-readme-stats.vercel.app/api?username=doosemavis)](https://github.com/doosemavis/github-readme-stats)
-
 <a href="https://github.com/doosemavis/doosemavis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doosemavis&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doosemavis&hide=html,less,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/doosemavis/doosemavis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=doosemavis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Moose's GitHub Stats" />
 </a>
 
 
