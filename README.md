@@ -31,6 +31,9 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 
 
 ## 👾 Technical Skills: 
+![](https://img.shields.io/badge/-Ruby-red?style=flat&logo=appveyor)
+![](https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=appveyor)
+![](https://img.shields.io/badge/-ActiveRecord-red?style=flat&logo=appveyor)
   Ruby · Ruby on Rails · ActiveRecord · Sinatra · SQL · Sqlite3 · PostgresSQL · JavaScript · React.js · Redux · Git · API · RESTful
   
   #### Learning: Golang (Go) 
