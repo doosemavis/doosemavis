@@ -1,4 +1,4 @@
-# Hi there 👋  &  WELCOME to my GitHub 👨‍💻
+# Hi there 👋  &  WELCOME to github/doosemavis 👨‍💻
 ### 😄 Pronouns: he/him
 
 ## 💁‍♂️ About me: 
