@@ -32,8 +32,8 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 
 ## 👾 Technical Skills: 
 ![](https://img.shields.io/badge/-Ruby-critical?style=flat-square&logo=ruby)
-![](https://img.shields.io/badge/-Ruby on Rails-critical?style=flat-square&logo=ruby-on-rails)
-![](https://img.shields.io/badge/-ActiveRecord-critical?style=flat-square&logo=activerecord)
+![](https://img.shields.io/badge/-Ruby_on_Rails-critical?style=flat-square&logo=ruby-on-rails)
+![](https://img.shields.io/badge/-ActiveRecord-critical?style=flat-square&logo=ruby)
 ![](https://img.shields.io/badge/-SQL-critical?style=flat-square&logo=appveyor)
   Ruby · Ruby on Rails · ActiveRecord · Sinatra · SQL · Sqlite3 · PostgresSQL · JavaScript · React.js · Redux · Git · API · RESTful
   
