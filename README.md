@@ -1,4 +1,5 @@
-# Hi there 👋  &  WELCOME to github/doosemavis 👨‍💻
+![doosemavis/header](https://github.com/doosemavis/doosemavis/blob/main/header.png?raw=true)
+
 ### 😄 Pronouns: he/him
 
 ## 💁‍♂️ About me: 
