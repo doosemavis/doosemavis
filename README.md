@@ -40,8 +40,8 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 ![](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)
-![](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=redux&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=redux&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/VSCode-lightblue?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
@@ -50,7 +50,7 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
   
   #### Currently Learning: 
   ![](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
-  ![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=go&logoColor=white&color=339933)
+  ![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node&logoColor=white&color=339933)
   
   
 ## 📈 GitHub Stats: 
