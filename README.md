@@ -49,7 +49,8 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 
   
   #### Currently Learning: 
-  ![](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
+  ![](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
+  ![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=go&logoColor=white&color=339933)
   
   
 ## 📈 GitHub Stats: 
