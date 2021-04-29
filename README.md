@@ -22,7 +22,7 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 
 
 
-## 🛠 Portfolio Projects: 
+## 🚧 Projects: 
  [Instrument Warehouse 🎹](https://github.com/doosemavis/instrument_warehouse)
 
  [Coffee Corner ☕️](https://github.com/doosemavis/coffee_corner)
@@ -30,7 +30,7 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
  [Headphone Handler 🎧](https://github.com/doosemavis/headphone_handler)
 
 
-## 👾 Technical Skills: 
+## 👾 Languages & Frameworks: 
 ![](https://img.shields.io/badge/Ruby-critical?style=for-the-badge&logo=ruby&logoColor=white&color=CC342D)
 ![](https://img.shields.io/badge/Sinatra-critical?style=for-the-badge&logo=ruby&logoColor=white&color=CC342D)
 ![](https://img.shields.io/badge/Ruby_on_Rails-critical?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=CC342D)
@@ -44,15 +44,17 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 ![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+
+  #### Currently Learning: 
+  ![](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
+  ![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
+
+
+## 🛠 Applications: 
 ![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/VSCode-lightblue?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack&logoColor=white&color=4A154B)
 
-
-  
-  #### Currently Learning: 
-  ![](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
-  ![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
   
   
 ## 📈 GitHub Stats: 
