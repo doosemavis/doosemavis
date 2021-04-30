@@ -54,6 +54,13 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 ![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/VSCode-lightblue?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack&logoColor=white&color=4A154B)
+![](https://img.shields.io/badge/Zendesk-green?style=for-the-badge&logo=zendesk&logoColor=white&color=03363D)
+![](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/Airtable-blue?style=for-the-badge&logo=airtable&logoColor=white&color=18BFFF)
+![](https://img.shields.io/badge/Asana-grey?style=for-the-badge&logo=asana&logoColor=white&color=273347)
+![](https://img.shields.io/badge/Adobe_Illustrator-orange?style=for-the-badge&logo=adobe-illustrator&logoColor=white&color=FF9A00)
+![](https://img.shields.io/badge/Adobe_InDesign-pink?style=for-the-badge&logo=adobe-indesign&logoColor=white&color=FF3366)
+![](https://img.shields.io/badge/Adobe_Acrobat_Reader-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=EC1C24)
 
   
   
