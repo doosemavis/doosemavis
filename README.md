@@ -61,6 +61,8 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 ![](https://img.shields.io/badge/Adobe_Illustrator-orange?style=for-the-badge&logo=adobe-illustrator&logoColor=white&color=FF9A00)
 ![](https://img.shields.io/badge/Adobe_InDesign-pink?style=for-the-badge&logo=adobe-indesign&logoColor=white&color=FF3366)
 ![](https://img.shields.io/badge/Adobe_Acrobat_Reader-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=EC1C24)
+![](https://img.shields.io/badge/Google_Drive-blue?style=for-the-badge&logo=google-drive&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Microsoft_Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white&color=D83B01)
 
   
   
