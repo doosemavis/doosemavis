@@ -44,6 +44,7 @@ A little background: I'm an ambitious, hardworking, lifelong learner who is in t
 ![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
 
   #### Currently Learning: 
   ![](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
