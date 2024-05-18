@@ -1,6 +1,6 @@
 ![doosemavis/header](https://github.com/doosemavis/doosemavis/blob/main/header.png?raw=true)
 
-### 😄 Pronouns: he/him
+### 😄 Pronouns: he/they
 
 ## 💁‍♂️ About me: 
 
