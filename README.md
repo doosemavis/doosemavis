@@ -50,14 +50,3 @@
 <a href="https://github.com/doosemavis/doosemavis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doosemavis&hide=html,less,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
-
-
-## 📫 How to reach me: 
-#### email: moosedavis2011@gmail.com
-
-
-
-## ⚡ Puzzling Quote: 
-#### "There are no child butterflies, and there are no adult caterpillars." - TikTok
