@@ -18,15 +18,15 @@ Hey, I'm Moose — full-stack engineer in NYC. I ship web & mobile apps end to e
 
 <div align="center">
 
-<img src="assets/card-languages.svg" alt="Languages: Ruby, JavaScript, TypeScript, HTML5, CSS" />
+<img src="assets/tech-languages.svg" alt="Languages: Ruby, JavaScript, TypeScript, HTML5, CSS" />
 
-<img src="assets/card-frameworks.svg" alt="Frameworks & Libraries: Rails, Angular, RxJS, React, Redux, Node.js, Bootstrap, Storybook" />
+<img src="assets/tech-frameworks.svg" alt="Frameworks & Libraries: Rails, Angular, RxJS, React, Redux, Node.js, Bootstrap, Storybook" />
 
-<img src="assets/card-data.svg" alt="Databases & APIs: PostgreSQL, MongoDB, SQLite, GraphQL" />
+<img src="assets/tech-data.svg" alt="Databases & APIs: PostgreSQL, MongoDB, SQLite, GraphQL" />
 
-<img src="assets/card-tools.svg" alt="Tools & Infrastructure: Git, GitHub, Bitbucket, Jenkins, Jira, npm, Artifactory" />
+<img src="assets/tech-tools.svg" alt="Tools & Infrastructure: Git, GitHub, Bitbucket, Jenkins, Jira, npm, Artifactory" />
 
-<img src="assets/card-ai.svg" alt="AI & Productivity: GitHub Copilot, Claude Code, Devin" />
+<img src="assets/tech-ai.svg" alt="AI & Productivity: GitHub Copilot, Claude Code, Devin" />
 
 </div>
 
