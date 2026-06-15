@@ -1,52 +1,76 @@
-## 🚧 Projects: 
- [Instrument Warehouse 🎹](https://github.com/doosemavis/instrument_warehouse)
+<div align="center">
 
- [Coffee Corner ☕️](https://github.com/doosemavis/coffee_corner)
+<img src="assets/header.svg" width="100%" alt="M. Davis — Full-stack engineer · web & mobile" />
 
- [Headphone Handler 🎧](https://github.com/doosemavis/headphone_handler)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=21C19A&center=true&vCenter=true&width=520&lines=building+things+that+ship" alt="building things that ship" />
 
+<br/>
 
-## 👾 Languages & Frameworks: 
-![](https://img.shields.io/badge/Ruby-critical?style=for-the-badge&logo=ruby&logoColor=white&color=CC342D)
-![](https://img.shields.io/badge/Sinatra-critical?style=for-the-badge&logo=ruby&logoColor=white&color=CC342D)
-![](https://img.shields.io/badge/Ruby_on_Rails-critical?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=CC342D)
-![](https://img.shields.io/badge/ActiveRecord-critical?style=for-the-badge&logo=ruby-on-rails&logoColo=white&color=CC342D)
-![](https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791)
-![](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)
-![](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
+<img src="https://komarev.com/ghpvc/?username=doosemavis&color=21C19A&style=flat&label=profile+views" alt="profile views" />
 
-  #### Currently Learning: 
-  ![](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
-  ![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
+</div>
 
+## 👋 About
 
-## 🛠 Applications: 
-![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/VSCode-lightblue?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack&logoColor=white&color=4A154B)
-![](https://img.shields.io/badge/Zendesk-green?style=for-the-badge&logo=zendesk&logoColor=white&color=03363D)
-![](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=white&color=0052CC)
-![](https://img.shields.io/badge/Airtable-blue?style=for-the-badge&logo=airtable&logoColor=white&color=18BFFF)
-![](https://img.shields.io/badge/Asana-grey?style=for-the-badge&logo=asana&logoColor=white&color=273347)
-![](https://img.shields.io/badge/Adobe_Illustrator-orange?style=for-the-badge&logo=adobe-illustrator&logoColor=white&color=FF9A00)
-![](https://img.shields.io/badge/Adobe_InDesign-pink?style=for-the-badge&logo=adobe-indesign&logoColor=white&color=FF3366)
-![](https://img.shields.io/badge/Adobe_Acrobat_Reader-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=EC1C24)
-![](https://img.shields.io/badge/Google_Drive-blue?style=for-the-badge&logo=google-drive&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Microsoft_Office-orange?style=for-the-badge&logo=microsoft-office&logoColor=white&color=D83B01)
+Hey, I'm Moose — full-stack engineer in NYC. I ship web & mobile apps end to end and turn rough ideas into real products.
 
-  
-  
-## 📈 GitHub Stats: 
-<a href="https://github.com/doosemavis/doosemavis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=doosemavis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Moose's GitHub Stats" />
-</a>
-<a href="https://github.com/doosemavis/doosemavis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doosemavis&hide=html,less,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+## 🧰 Tech I work in
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ruby,js,ts,html,css" height="48" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=rails,angular,rxjs,react,redux,nodejs,bootstrap,storybook" height="48" />
+
+**Databases & APIs**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,graphql" height="48" />
+
+**Tools & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,jenkins,jira" height="48" />
+<img src="assets/npm.svg" width="48" height="48" alt="npm" />
+<img src="assets/artifactory.svg" width="48" height="48" alt="Artifactory" />
+
+**AI & Productivity**
+
+<img src="assets/copilot.svg" width="48" height="48" alt="GitHub Copilot" />
+<img src="assets/claude-code.svg" width="48" height="48" alt="Claude Code" />
+<img src="assets/devin.svg" width="48" height="48" alt="Devin" />
+
+</div>
+
+## 🚧 Featured Projects
+
+<div align="center">
+
+| 🎹 [Instrument Warehouse](https://github.com/doosemavis/instrument_warehouse) | ☕️ [Coffee Corner](https://github.com/doosemavis/coffee_corner) | 🎧 [Headphone Handler](https://github.com/doosemavis/headphone_handler) |
+|:---:|:---:|:---:|
+| Ruby · Rails · SQLite | Ruby · Sinatra | JavaScript · React |
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=doosemavis&show_icons=true&hide_border=false&theme=dark&bg_color=0d1117&title_color=21C19A&icon_color=21C19A&text_color=c9d1d9&border_color=30363d" height="165" />
+<img src="https://streak-stats.demolab.com?user=doosemavis&theme=dark&background=0d1117&border=30363d&ring=21C19A&fire=21C19A&currStreakLabel=21C19A&sideLabels=c9d1d9&dates=8b949e&hide_border=false" height="165" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doosemavis&layout=compact&hide_border=false&theme=dark&bg_color=0d1117&title_color=21C19A&text_color=c9d1d9&border_color=30363d" height="150" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=doosemavis&bg_color=0d1117&color=21C19A&line=21C19A&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Activity" width="95%" />
+
+</div>
+
+<div align="center">
+<img src="assets/footer.svg" width="100%" alt="" />
+</div>

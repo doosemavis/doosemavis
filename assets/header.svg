@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="M. Davis — Full-stack engineer">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7928CA"/>
+      <stop offset="100%" stop-color="#21C19A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#g)"/>
+  <path d="M0 168 C 200 138, 400 198, 600 168 S 1000 138, 1200 173 L1200 220 L0 220 Z" fill="#ffffff" opacity="0.08"/>
+  <path d="M0 190 C 250 165, 450 215, 650 188 S 1000 165, 1200 192 L1200 220 L0 220 Z" fill="#ffffff" opacity="0.06"/>
+  <text x="600" y="110" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="66" font-weight="800" fill="#ffffff" letter-spacing="8">M. DAVIS</text>
+  <text x="600" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#ffffff" opacity="0.92">Full-stack engineer &#183; web &amp; mobile</text>
+</svg>
