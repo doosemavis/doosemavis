@@ -18,47 +18,15 @@ Hey, I'm Moose — full-stack engineer in NYC. I ship web & mobile apps end to e
 
 <div align="center">
 
-**Languages**
+<img src="assets/card-languages.svg" alt="Languages: Ruby, JavaScript, TypeScript, HTML5, CSS" />
 
-<img src="assets/ruby.svg" width="48" height="48" alt="Ruby" />
-<img src="assets/javascript.svg" width="48" height="48" alt="JavaScript" />
-<img src="assets/typescript.svg" width="48" height="48" alt="TypeScript" />
-<img src="assets/html5.svg" width="48" height="48" alt="HTML5" />
-<img src="assets/css.svg" width="48" height="48" alt="CSS" />
+<img src="assets/card-frameworks.svg" alt="Frameworks & Libraries: Rails, Angular, RxJS, React, Redux, Node.js, Bootstrap, Storybook" />
 
-**Frameworks & Libraries**
+<img src="assets/card-data.svg" alt="Databases & APIs: PostgreSQL, MongoDB, SQLite, GraphQL" />
 
-<img src="assets/rails.svg" width="48" height="48" alt="Ruby on Rails" />
-<img src="assets/angular.svg" width="48" height="48" alt="Angular" />
-<img src="assets/rxjs.svg" width="48" height="48" alt="RxJS" />
-<img src="assets/react.svg" width="48" height="48" alt="React" />
-<img src="assets/redux.svg" width="48" height="48" alt="Redux" />
-<img src="assets/nodejs.svg" width="48" height="48" alt="Node.js" />
-<img src="assets/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
-<img src="assets/storybook.svg" width="48" height="48" alt="Storybook" />
+<img src="assets/card-tools.svg" alt="Tools & Infrastructure: Git, GitHub, Bitbucket, Jenkins, Jira, npm, Artifactory" />
 
-**Databases & APIs**
-
-<img src="assets/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
-<img src="assets/mongodb.svg" width="48" height="48" alt="MongoDB" />
-<img src="assets/sqlite.svg" width="48" height="48" alt="SQLite" />
-<img src="assets/graphql.svg" width="48" height="48" alt="GraphQL" />
-
-**Tools & Infrastructure**
-
-<img src="assets/git.svg" width="48" height="48" alt="Git" />
-<img src="assets/github.svg" width="48" height="48" alt="GitHub" />
-<img src="assets/bitbucket.svg" width="48" height="48" alt="Bitbucket" />
-<img src="assets/jenkins.svg" width="48" height="48" alt="Jenkins" />
-<img src="assets/jira.svg" width="48" height="48" alt="Jira" />
-<img src="assets/npm.svg" width="48" height="48" alt="npm" />
-<img src="assets/artifactory.svg" width="48" height="48" alt="Artifactory" />
-
-**AI & Productivity**
-
-<img src="assets/copilot.svg" width="48" height="48" alt="GitHub Copilot" />
-<img src="assets/claude-code.svg" width="48" height="48" alt="Claude Code" />
-<img src="assets/devin.svg" width="48" height="48" alt="Devin" />
+<img src="assets/card-ai.svg" alt="AI & Productivity: GitHub Copilot, Claude Code, Devin" />
 
 </div>
 
