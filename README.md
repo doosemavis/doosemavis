@@ -77,11 +77,7 @@ Hey, I'm Moose — full-stack engineer in NYC. I ship web & mobile apps end to e
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=doosemavis&show_icons=true&hide_border=false&theme=dark&bg_color=0d1117&title_color=21C19A&icon_color=21C19A&text_color=c9d1d9&border_color=30363d" height="165" />
-<img src="https://streak-stats.demolab.com?user=doosemavis&theme=dark&background=0d1117&border=30363d&ring=21C19A&fire=21C19A&currStreakLabel=21C19A&sideLabels=c9d1d9&dates=8b949e&hide_border=false&type=svg" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doosemavis&layout=compact&hide_border=false&theme=dark&bg_color=0d1117&title_color=21C19A&text_color=c9d1d9&border_color=30363d" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doosemavis&layout=compact&hide_border=false&theme=dark&bg_color=0d1117&title_color=21C19A&text_color=c9d1d9&border_color=30363d" height="165" />
 
 <br/><br/>
 
