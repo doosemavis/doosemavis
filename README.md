@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="M. Davis — Full-stack engineer · web & mobile" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=21C19A&center=true&vCenter=true&width=520&lines=building+things+that+ship" alt="building things that ship" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=21C19A&center=true&vCenter=true&width=720&lines=building+things+that+ship" alt="building things that ship" />
 
 <br/>
 
@@ -20,19 +20,37 @@ Hey, I'm Moose — full-stack engineer in NYC. I ship web & mobile apps end to e
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ruby,js,ts,html,css" height="48" />
+<img src="assets/ruby.svg" width="48" height="48" alt="Ruby" />
+<img src="assets/javascript.svg" width="48" height="48" alt="JavaScript" />
+<img src="assets/typescript.svg" width="48" height="48" alt="TypeScript" />
+<img src="assets/html5.svg" width="48" height="48" alt="HTML5" />
+<img src="assets/css.svg" width="48" height="48" alt="CSS" />
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=rails,angular,rxjs,react,redux,nodejs,bootstrap,storybook" height="48" />
+<img src="assets/rails.svg" width="48" height="48" alt="Ruby on Rails" />
+<img src="assets/angular.svg" width="48" height="48" alt="Angular" />
+<img src="assets/rxjs.svg" width="48" height="48" alt="RxJS" />
+<img src="assets/react.svg" width="48" height="48" alt="React" />
+<img src="assets/redux.svg" width="48" height="48" alt="Redux" />
+<img src="assets/nodejs.svg" width="48" height="48" alt="Node.js" />
+<img src="assets/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+<img src="assets/storybook.svg" width="48" height="48" alt="Storybook" />
 
 **Databases & APIs**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,graphql" height="48" />
+<img src="assets/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+<img src="assets/mongodb.svg" width="48" height="48" alt="MongoDB" />
+<img src="assets/sqlite.svg" width="48" height="48" alt="SQLite" />
+<img src="assets/graphql.svg" width="48" height="48" alt="GraphQL" />
 
 **Tools & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,jenkins,jira" height="48" />
+<img src="assets/git.svg" width="48" height="48" alt="Git" />
+<img src="assets/github.svg" width="48" height="48" alt="GitHub" />
+<img src="assets/bitbucket.svg" width="48" height="48" alt="Bitbucket" />
+<img src="assets/jenkins.svg" width="48" height="48" alt="Jenkins" />
+<img src="assets/jira.svg" width="48" height="48" alt="Jira" />
 <img src="assets/npm.svg" width="48" height="48" alt="npm" />
 <img src="assets/artifactory.svg" width="48" height="48" alt="Artifactory" />
 
