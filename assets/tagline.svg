@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="56" viewBox="0 0 860 56">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+@keyframes type { from { transform: translateX(-384.0px); } }
+@keyframes blink { 50% { opacity: 0; } }
+.typing { animation: type 1.92s steps(32, end) 0.3s both; }
+.cursor { animation: type 1.92s steps(32, end) 0.3s both, blink 1s step-end 2.22s infinite; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="860" height="56" rx="8" fill="#0d1117"/><text x="136.0" y="36" font-size="20" textLength="204.0" xml:space="preserve"><tspan fill="#3fb950">moose@github</tspan><tspan fill="#58a6ff"> ~</tspan><tspan fill="#c9d1d9"> $ </tspan></text><text x="340.0" y="36" font-size="20" fill="#c9d1d9" textLength="384.0" xml:space="preserve">echo &quot;building things that ship&quot;</text><rect class="typing" x="724.0" y="10" width="396.0" height="36" fill="#0d1117"/><rect class="cursor" x="724.0" y="19" width="12.0" height="22" fill="#c9d1d9"/><rect x="0.5" y="0.5" width="859" height="55" rx="8" fill="none" stroke="#30363d"/>
+</svg>
