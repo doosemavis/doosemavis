@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="157" viewBox="0 0 280 157">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="280" height="157" rx="8" fill="#0d1117"/><rect width="280" height="28" rx="8" fill="#161b22"/><rect y="20" width="280" height="8" fill="#161b22"/><line x1="0" y1="28" x2="280" y2="28" stroke="#30363d"/><circle cx="16" cy="14" r="5" fill="#ff5f57"/><circle cx="32" cy="14" r="5" fill="#febc2e"/><circle cx="48" cy="14" r="5" fill="#28c840"/><text x="72" y="18" font-size="11" fill="#8b949e">~/projects/TailorMyText</text><rect x="0.5" y="0.5" width="279" height="156" rx="8" fill="none" stroke="#30363d"/><text x="16" y="56" font-size="15" font-weight="bold" fill="#c9d1d9">TailorMyText</text><text x="16" y="80" font-size="12" fill="#8b949e">A reader that adapts to how you</text><text x="16" y="97" font-size="12" fill="#8b949e">read: typography, themes, and</text><text x="16" y="114" font-size="12" fill="#8b949e">visual aids.</text><circle cx="21" cy="135" r="5" fill="#f1e05a"/><text x="32" y="139" font-size="11" fill="#8b949e">JavaScript</text>
+</svg>
