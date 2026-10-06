@@ -24,3 +24,17 @@ def test_long_value_wraps_and_card_grows(check_svg):
 
 def test_no_infinite_animation(profile):
     assert "infinite" not in render_info_card(profile["prompt"], profile["card"])
+
+
+def test_prompt_too_wide_raises():
+    import pytest
+
+    with pytest.raises(ValueError, match="prompt"):
+        render_info_card("p" * 70, [["Key", "value"]])
+
+
+def test_key_too_long_raises_naming_the_key():
+    import pytest
+
+    with pytest.raises(ValueError, match="card key"):
+        render_info_card("me", [["K" * 50, "value"]])

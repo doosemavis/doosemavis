@@ -27,3 +27,8 @@ def test_escapes_blurb(check_svg, profile):
     svg = render_project_card({**profile["projects"][0], "blurb": "fast & <small>"})
     check_svg(svg)
     assert "fast &amp; &lt;small&gt;" in svg
+
+
+def test_name_too_wide_for_card_raises(profile):
+    with pytest.raises(ValueError, match="project name"):
+        render_project_card({**profile["projects"][0], "name": "n" * 30})

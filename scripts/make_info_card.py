@@ -2,8 +2,8 @@
 from __future__ import annotations
 
 from profile_data import load_profile
-from svg_common import (ASSETS, DIM, KEY_COLORS, PROMPT, TEXT, char_width, esc, svg_doc,
-                        window_frame, wrap, write_svg)
+from svg_common import (ASSETS, DIM, KEY_COLORS, PROMPT, TEXT, char_width, esc, require_fit,
+                        svg_doc, window_frame, wrap, write_svg)
 
 WIDTH = 490
 FONT_SIZE = 12.5
@@ -11,6 +11,7 @@ LINE_HEIGHT = 21
 PAD_X = 22
 FIRST_BASELINE = 58
 KEY_GAP_CHARS = 2
+MIN_VALUE_CHARS = 12  # the value column must keep at least this many characters
 SWATCH_W, SWATCH_H = 26, 14
 STAGGER = 0.12
 START_DELAY = 0.4
@@ -32,8 +33,12 @@ def _line(index: int, content: str) -> str:
 def _card_lines(prompt_user: str, rows: list[list[str]]) -> list[list[tuple]]:
     """Each output line as a list of (x, fill, text, bold) runs, wrapping long values."""
     cw = char_width(FONT_SIZE)
-    value_x = PAD_X + (max(len(key) for key, _ in rows) + KEY_GAP_CHARS) * cw
+    longest_key = max((key for key, _ in rows), key=len)
+    value_x = PAD_X + (len(longest_key) + KEY_GAP_CHARS) * cw
     value_chars = int((WIDTH - PAD_X - value_x) // cw)
+    if value_chars < MIN_VALUE_CHARS:
+        max_key = int((WIDTH - 2 * PAD_X) // cw) - KEY_GAP_CHARS - MIN_VALUE_CHARS
+        raise ValueError(f"card key {longest_key!r} is {len(longest_key)} characters; max is {max_key}")
     lines = [[(PAD_X, PROMPT, prompt_user, True)], [(PAD_X, DIM, "─" * len(prompt_user), False)]]
     for i, (key, value) in enumerate(rows):
         color = KEY_COLORS[i % len(KEY_COLORS)]
@@ -44,6 +49,7 @@ def _card_lines(prompt_user: str, rows: list[list[str]]) -> list[list[tuple]]:
 
 
 def render_info_card(prompt_user: str, rows: list[list[str]]) -> str:
+    require_fit("prompt", prompt_user, FONT_SIZE, WIDTH - 2 * PAD_X)
     lines = _card_lines(prompt_user, rows)
     body = [
         _line(i, "".join(_text(x, FIRST_BASELINE + i * LINE_HEIGHT, fill, text, bold) for x, fill, text, bold in runs))

@@ -2,7 +2,8 @@
 from __future__ import annotations
 
 from profile_data import load_profile
-from svg_common import ASSETS, BG, BORDER, PATH_BLUE, PROMPT, TEXT, char_width, esc, svg_doc, write_svg
+from svg_common import (ASSETS, BG, BORDER, PATH_BLUE, PROMPT, TEXT, char_width, esc, require_fit,
+                        svg_doc, write_svg)
 
 WIDTH, HEIGHT = 860, 56
 FONT_SIZE = 20
@@ -16,6 +17,7 @@ def render_tagline(prompt_user: str, tagline: str) -> str:
     cw = char_width(FONT_SIZE)
     prompt = f"{prompt_user} ~ $ "
     typed = f'echo "{tagline}"'
+    require_fit("prompt", prompt, FONT_SIZE, (WIDTH - 2 * SIDE_MARGIN) / 2)
     total_w = (len(prompt) + len(typed)) * cw
     if total_w > WIDTH - 2 * SIDE_MARGIN:
         max_chars = int((WIDTH - 2 * SIDE_MARGIN) // cw) - len(prompt) - len('echo ""')

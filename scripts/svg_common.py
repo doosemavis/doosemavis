@@ -22,7 +22,8 @@ LANG_COLORS = {"TypeScript": "#3178c6", "JavaScript": "#f1e05a", "Python": "#357
 
 FONT_STACK = 'ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace'
 CHAR_WIDTH_EM = 0.6  # advance width of one monospace glyph
-REDUCED_MOTION = "@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }"
+TITLE_X, TITLE_SIZE, TITLE_RIGHT_PAD = 72, 11, 8  # window title sits right of the traffic lights
+REDUCED_MOTION ="@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }"
 
 
 def esc(text: str) -> str:
@@ -32,6 +33,13 @@ def esc(text: str) -> str:
 
 def char_width(font_size: float) -> float:
     return font_size * CHAR_WIDTH_EM
+
+
+def require_fit(field: str, text: str, font_size: float, max_px: float) -> None:
+    """Raise a ValueError naming the field and its limit when text can't fit max_px on one line."""
+    max_chars = int(max_px // char_width(font_size))
+    if len(text) > max_chars:
+        raise ValueError(f"{field} is {len(text)} characters; max is {max_chars} to fit {max_px:.0f}px")
 
 
 def wrap(text: str, width: int) -> list[str]:
@@ -49,6 +57,7 @@ def svg_doc(width: int, height: int, body: str, css: str = "") -> str:
 
 def window_frame(width: int, height: int, title: str) -> str:
     """Dark rounded window with a title bar, traffic-light dots and a border."""
+    require_fit("window title", title, TITLE_SIZE, width - TITLE_X - TITLE_RIGHT_PAD)
     dots = "".join(
         f'<circle cx="{16 + i * 16}" cy="14" r="5" fill="{color}"/>' for i, color in enumerate(WINDOW_DOTS)
     )
@@ -58,7 +67,7 @@ def window_frame(width: int, height: int, title: str) -> str:
         f'<rect y="20" width="{width}" height="8" fill="{PANEL}"/>'
         f'<line x1="0" y1="28" x2="{width}" y2="28" stroke="{BORDER}"/>'
         f"{dots}"
-        f'<text x="72" y="18" font-size="11" fill="{DIM}">{esc(title)}</text>'
+        f'<text x="{TITLE_X}" y="18" font-size="{TITLE_SIZE}" fill="{DIM}">{esc(title)}</text>'
         f'<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="8" fill="none" stroke="{BORDER}"/>'
     )
 

@@ -2,8 +2,8 @@
 from __future__ import annotations
 
 from profile_data import load_profile
-from svg_common import (ASSETS, DIM, LANG_COLORS, TEXT, char_width, esc, svg_doc, window_frame,
-                        wrap, write_svg)
+from svg_common import (ASSETS, DIM, LANG_COLORS, TEXT, char_width, esc, require_fit, svg_doc,
+                        window_frame, wrap, write_svg)
 
 WIDTH = 280
 PAD_X = 16
@@ -17,6 +17,7 @@ LANG_SIZE = 11
 
 
 def render_project_card(project: dict) -> str:
+    require_fit("project name", project["name"], NAME_SIZE, WIDTH - 2 * PAD_X)
     blurb_chars = int((WIDTH - 2 * PAD_X) // char_width(BLURB_SIZE))
     lines = wrap(project["blurb"], blurb_chars)
     if len(lines) > MAX_BLURB_LINES:

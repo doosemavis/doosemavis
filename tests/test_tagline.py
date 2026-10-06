@@ -27,3 +27,8 @@ def test_cover_rests_after_the_text_so_static_frame_shows_everything():
 def test_too_long_tagline_raises():
     with pytest.raises(ValueError, match="tagline"):
         render_tagline("moose@github", "x" * 60)
+
+
+def test_long_prompt_is_reported_as_the_prompt():
+    with pytest.raises(ValueError, match="prompt"):
+        render_tagline("p" * 80, "hi")
