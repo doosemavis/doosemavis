@@ -96,7 +96,7 @@ Each script is a small CLI with one job, reading `profile.json` and/or `data/` a
 | `svg_common.py` | imported | palette, font stack, `esc()` XML escaping, `svg_doc()` wrapper that injects the shared `<style>` incl. the reduced-motion rule |
 | `make_tagline.py` | CI | `profile.json` → `assets/tagline.svg`: prompt + `echo "<tagline>"` types in character by character, block cursor blinks after |
 | `make_info_card.py` | CI | `profile.json` → `assets/info-card.svg`: title bar, `moose@github` header + rule, colored key/value rows fading in on a stagger, swatch row last |
-| `make_project_cards.py` | CI | `profile.json` → `assets/project-<slug>.svg`: title bar `~/projects/<name>`, wrapped blurb (max 2 lines), language dot + name |
+| `make_project_cards.py` | CI | `profile.json` → `assets/project-<slug>.svg`: title bar `~/projects/<name>`, wrapped blurb (max 3 lines; longer blurbs raise an error naming the limit), language dot + name |
 | `fetch_contributions.py` | CI | `github.com/users/doosemavis/contributions` → `data/contributions.json` (days + derived stats) |
 | `render_heatmap_svg.py` | CI | `data/contributions.json` → `assets/contrib-heatmap.svg` |
 | `prep_photo.py` | local only | photo path → `.portrait/prepped.png` |
@@ -119,7 +119,7 @@ Each script is a small CLI with one job, reading `profile.json` and/or `data/` a
 - `prep_photo.py`: rembg background removal → composite subject onto **black** → grayscale → OpenCV CLAHE (clip 2.0, 8×8 tiles) → crop to the subject's bounding box with 6% padding, square → save.
 - `make_ascii_svg.py`: downsample to a 90-column grid, rows scaled by the monospace aspect (~0.5) → ~45 rows. Ramp `" .`:-=+*cs#%@"` ordered sparse→dense; **brightness maps to density** (black background → space, bright skin → dense glyph) because glyphs render light-on-dark. Single fill `text` color.
 - Each row is one `<text>` with `xml:space="preserve"` and a fixed `textLength` so alignment never depends on which monospace font the viewer has.
-- Animation: each row is revealed left→right by a CSS-keyframed `clip-path: inset()` (CSS, not SMIL, so the shared reduced-motion rule disables it), rows staggered top→bottom, a block cursor riding the leading edge; ~3s total, prints once and holds.
+- Animation: each row is revealed left→right by a background-colored cover rect that slides off with a CSS `transform` keyframe (transform-only animation has the widest browser support; CSS, not SMIL, so the shared reduced-motion rule disables it). The cover's resting position is past the row end, so the static frame is the finished portrait. Rows are staggered top→bottom with a block cursor riding the leading edge; ~3s total, prints once and holds.
 - `.portrait/` and common photo extensions are git-ignored; the original photo stays outside the repo.
 
 ## Daily automation
