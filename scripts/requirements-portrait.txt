@@ -1,5 +1,5 @@
 -r requirements.txt
 pillow
 numpy
-opencv-python-headless
+opencv-python-headless<5  # 5.x moved CascadeClassifier out of the main wheel
 rembg[cpu]
