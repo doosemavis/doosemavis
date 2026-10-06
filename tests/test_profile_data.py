@@ -5,7 +5,7 @@ from profile_data import ProfileError, load_profile, validate_profile
 
 def test_repo_profile_is_valid():
     data = load_profile()
-    assert data["prompt"] == "moose@github"
+    assert data["card"] and data["projects"]
 
 
 def test_invalid_json_raises(tmp_path):
