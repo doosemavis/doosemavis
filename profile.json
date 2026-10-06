@@ -1,0 +1,38 @@
+{
+  "prompt": "moose@github",
+  "tagline": "building things that ship",
+  "card": [
+    ["Role", "Full-stack engineer · NYC · enterprise fintech"],
+    ["Prev", "Technical coach · arts operations"],
+    ["Langs", "Ruby · TypeScript · JavaScript · SQL"],
+    ["Frameworks", "Rails · Angular · RxJS · React · Redux · Node"],
+    ["Data", "PostgreSQL · MongoDB · SQLite"],
+    ["APIs", "REST · GraphQL"],
+    ["Tools", "Git · Jenkins · Jira · Storybook · npm"],
+    ["AI", "Claude Code · Copilot · Devin"],
+    ["Building", "bit design system · TailorMyText · MoveStar"]
+  ],
+  "projects": [
+    {
+      "slug": "bit",
+      "name": "bit-design-system",
+      "repo": "doosemavis/bit-design-system",
+      "blurb": "React design system for people new to design systems. Retro-game themes.",
+      "lang": "TypeScript"
+    },
+    {
+      "slug": "tailormytext",
+      "name": "TailorMyText",
+      "repo": "doosemavis/tailormytext",
+      "blurb": "A reader that adapts to how you read: typography, themes, and visual aids.",
+      "lang": "JavaScript"
+    },
+    {
+      "slug": "movestar",
+      "name": "MoveStar",
+      "repo": "doosemavis/astro-clock",
+      "blurb": "A living astrological chart with planets at their true ephemeris positions.",
+      "lang": "TypeScript"
+    }
+  ]
+}

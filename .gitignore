@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.portrait/
+.superpowers/
+*.tmp
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+*.heic
+*.HEIC
